@@ -19,9 +19,11 @@ between two accounts, and viewing transaction history.
 
 ## Group Members:
 
- - [@parthdali](https://github.com/parthd06)
- - [@pranavdalvi](https://github.com/PRANAVD-10)
- - [@shivambhosale](https://github.com/ShivamB10)
+
+
+ - (@phani-chinta)(https://github.com/phani-chinta)
+ - (@Hari-Ram-Torrapati)(https://github.com/Hari-Ram-Torrapati)
+ 
 
 ## System Design & Flow Chart:
 
